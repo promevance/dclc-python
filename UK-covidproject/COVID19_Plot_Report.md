@@ -50,7 +50,7 @@ mplt.show()
 
 Here is the resulting plot below
 
-![Chart Showing Visualisation for the Project](UK-covidproject/uk-covidproject visualisation.png "UK Covid-19 Data Visualisation")
+![Chart Showing Visualisation for the Project]([UK-covidproject/uk-covidproject visualisation.png](https://github.com/promevance/dclc-python/blob/my-assignment/UK-covidproject/uk-covidproject%20visualisation.png) "UK Covid-19 Data Visualisation")
 
 ## Conclusion
 
