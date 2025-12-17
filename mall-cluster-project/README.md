@@ -147,6 +147,6 @@ This project produced the following outputs:
 
 ## Author
 
-**[Evan Promise Chukwubueze]**
+**Evan Promise Chukwubueze**
 Data Analysis & Machine Learning Project
 GitHub: [https://github.com/promevance](https://github.com/promevance)
